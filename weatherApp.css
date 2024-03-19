@@ -1,0 +1,40 @@
+/* #city-input, #weather-output {
+    max-width: 400px;
+    margin: 0 auto;
+} */
+  
+.banner {
+    color: #FFD23F;
+    font-family: sans-serif;
+    
+}
+
+
+.text-center{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30px;
+  
+}
+
+.main{
+    background-color: rgb(19, 53, 54);
+    width: 25em;
+    box-shadow: 3px 15px 176px 73px rgba(0,0,0,0.43);
+-webkit-box-shadow: 3px 15px 176px 73px rgba(0,0,0,0.43);
+-moz-box-shadow: 3px 15px 176px 73px rgba(0,0,0,0.43);
+}
+.Sity{
+    background-color: rgb(92, 91, 91);
+}
+.card-header{
+    background-color: rgb(19, 53, 54); 
+    color: #e0d09a;
+    font-family: sans-serif;
+}
+.card-body{
+    background-color: rgb(19, 53, 54);
+    color: #e0d09a;
+    font-family: sans-serif;
+}
